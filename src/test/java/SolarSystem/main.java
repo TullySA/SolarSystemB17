@@ -14,5 +14,12 @@ sun.name="panther";
 sun.color="black";
 sun.temp="123124kelvin";
 
+// **************** Planet1  ***************
+
+        Planet1 planet =new Planet1();
+        planet.name="apaco";
+        planet.size="46236439k";
+        planet.radius="8576387596km";
+
     }
 }
