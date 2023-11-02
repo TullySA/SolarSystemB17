@@ -14,5 +14,13 @@ sun.name="panther";
 sun.color="black";
 sun.temp="123124kelvin";
 
+//  ********* Planet2 ****************
+
+        Planet2 xaros=new Planet2();
+        xaros.name="nehaio";
+        xaros.color="blue";
+        xaros.size="461364252356km";
+
+        
     }
 }
